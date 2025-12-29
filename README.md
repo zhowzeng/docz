@@ -1,2 +1,2 @@
-# docz
-Docz - AI-Powered Documentation Assistant
+# NotebookLM Clone
+NotebookLM Clone - AI-Powered Documentation Assistant

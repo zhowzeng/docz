@@ -1,5 +1,5 @@
 [project]
-name = "docz-backend"
+name = "notebooklm-clone-backend"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-docz-backend = "docz_backend:main"
+notebooklm-clone-backend = "notebooklm_clone_backend:main"
 
 [build-system]
 requires = ["uv_build>=0.9.13,<0.10.0"]
